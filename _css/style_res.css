@@ -25,7 +25,6 @@ div.container	{
 	background-color: #eeeeee;
 }
 
-
 div.two	{
 	background-color: #2a2a2a;
 	height: 60px;
@@ -163,20 +162,26 @@ div.footer	{
 
 div.page_nine	{
 	background-color: #eeeeee;
-	min-height: 300px;
+	min-height: 500px;
 	padding-left: 60px;
+	padding-bottom: 30px;
 }
 
 div.page_nine img {
-	float: right;
-	padding: 0 0 10px 10px ;
+	/*float: left;*/
+	padding: 5px 10px 5px 0;
+	/*border: 2px solid #fa6900;
+	border-radius: 5px;*/
 }
+
+
 
 div.page_three	{
 	background-color: #eeeeee;
 	min-height: 300px;
 	text-align: left;
 	padding: 25px 20px 20px 33px;
+	display: inline-block;
 }
 
 div.page_three  a  {
