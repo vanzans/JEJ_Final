@@ -83,6 +83,12 @@ div.nine	{
 	min-height: 500px;
 }
 
+div.eight	{
+	background-color: #eeeeee;
+	min-height: 500px;
+}
+
+
 div.three	{
 	background-color: #eeeeee;
 	min-height: 500px;
@@ -92,7 +98,7 @@ div.four	{
 	background-color: #eeeeee;
 	min-height: 440px;
 	text-align: center;
-	padding: 20px;
+	padding: 30px 20px 20px 20px;
 	border-top: 3px solid #fa6900;
 }
 
@@ -118,8 +124,28 @@ div.content_one{
 	height: 400px;
 	width: 420px;
 	color: #eeeeee;
-	background: url("../_images/content_one_bg.png");
+	background: url("../_images/content_one_bg4.png");
 	text-align: center;
+}
+
+div.content_why{
+	position: absolute;
+	margin-top: 315px;
+	margin-left: 20px;
+	padding: 0px;
+	height: 30px;
+	width: 300px;
+	color: #eeeeee;
+	text-align: center;
+}
+
+div.content_why	a  {
+	color: #eeeeee;
+}
+
+div.content_why	a:hover  {
+	color: #fa6900;
+	text-decoration: none;
 }
 
 
@@ -128,6 +154,49 @@ div.footer	{
 	min-height: 200px;
 	border-top: 5px solid #fa6900;
 }
+
+/* pages */
+
+div.page_nine	{
+	background-color: #eeeeee;
+	min-height: 300px;
+	padding-left: 60px;
+}
+
+div.page_nine img {
+	float: right;
+	padding: 0 0 10px 10px ;
+}
+
+div.page_three	{
+	background-color: #eeeeee;
+	min-height: 300px;
+	text-align: left;
+	padding: 25px 20px 20px 33px;
+}
+
+div.page_three  a  {
+	color: #fa6900;
+	font-weight: bold;
+}
+
+div.page_three  a:hover  {
+	color: #2a2a2a;
+	text-decoration: none;
+}
+
+div.page_three	ul  {
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
 
 
 
