@@ -169,7 +169,7 @@ div.page_nine	{
 
 div.page_nine img {
 	/*float: left;*/
-	padding: 5px 10px 5px 0;
+	padding: 10px;
 	/*border: 2px solid #fa6900;
 	border-radius: 5px;*/
 }
@@ -180,7 +180,7 @@ div.page_three	{
 	background-color: #eeeeee;
 	min-height: 300px;
 	text-align: left;
-	padding: 25px 20px 20px 33px;
+	padding: 25px 20px 20px 59px;
 	display: inline-block;
 }
 
