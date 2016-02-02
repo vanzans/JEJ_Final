@@ -100,7 +100,7 @@ div.three	{
 
 div.four	{
 	background-color: #eeeeee;
-	min-height: 440px;
+	min-height: 400px;
 	text-align: center;
 	padding: 30px 20px 20px 20px;
 	border-top: 3px solid #fa6900;
@@ -176,7 +176,7 @@ div.page_three	{
 	background-color: #eeeeee;
 	min-height: 300px;
 	text-align: left;
-	padding: 25px 20px 20px 33px;
+	padding: 25px 20px 20px 59px;
 }
 
 div.page_three  a  {
